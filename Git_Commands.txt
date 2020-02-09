@@ -1,0 +1,7 @@
+1.git init
+2.git config user.email "chbindukalpana123@gmail.com"
+3.git remote add lr1 https://github.com/cherukuribindu/CHBINDUKALPANA_TASK1.git
+4.git status
+5.git add -A
+6.git commit -m "this is first file"
+7.git push -f lr1 master
